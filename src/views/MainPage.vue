@@ -8,7 +8,7 @@
         </div>
         
         <div class="col-6">
-          <img src="C:\Users\Admin\Desktop\project2\school\src\assets\photo-1588702547919-26089e690ecc.avif" alt="">
+          <img src="@/assets/mainpage.avif" alt="">
         </div>
       </div>
     </div>

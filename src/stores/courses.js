@@ -51,7 +51,7 @@ export const useCoursesStore = defineStore('courses', {
   actions: {
     // Метод для отримання курсів з API
     fetchCoursesFromDB() {
-      fetch('https://dummyjson.com/c/8040-57bf-4284-9650')
+      fetch('https://dummyjson.com/c/8ad9-56c2-42e4-b6e8')
         .then(res => res.json())
         .then(json => {
           this.courses = json.courses;
